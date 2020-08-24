@@ -6,7 +6,7 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
 Esse foi um dos projetos desenvolvidos durante o Bootcamp GoStack da Rocketseat
 
 <div>
-  <img width=400 height=250 src="./assets/go1.png" />
-  <img width=400 height=250 src="./assets/go2.png" />
-  <img width=400 height=250 src="./assets/go3.png" />
+  <img width=400 height=250 src="src/assets/go1.png" />
+  <img width=400 height=250 src="src/assets/go2.png" />
+  <img width=400 height=250 src="src/assets/go3.png" />
 </div>
