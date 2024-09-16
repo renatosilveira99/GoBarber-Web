@@ -1,12 +1,61 @@
 # GoBarber
-GoBarber é uma plataforma de agendamento de serviços para proprietários de barbearias ou salões de beleza. Nessa aplicação o usuário consegue ter acesso a todos os prostadores de serviços cadastrados através de um aplicativo mobile, com isso usuário consegue escolher um prestador para marcar seu agendamento.
 
-Já o prestador de serviço, através de um interface Web, consegue ter acesso a todos os seus horários, podendo ver todos os que estão ocupados quanto os que estão disponíveis.
+GoBarber is a frontend application for managing appointments at barbershops and beauty salons. Developed during the GoStack Bootcamp by Rocketseat, this React-based web interface allows service providers to manage their schedules, while users can book appointments through the mobile app.
 
-Esse foi um dos projetos desenvolvidos durante o Bootcamp GoStack da Rocketseat
+**Note:** This frontend application works in conjunction with the [GoBarber API](https://github.com/renatosilveira99/go-barber-api), which provides the backend services required for full functionality.
+
+## Features
+
+- **Provider Dashboard**:
+  - View and manage appointment schedules.
+  - See booked and available time slots.
+
+## Screenshots
 
 <div>
   <img width=400 height=250 src="src/assets/go1.png" />
   <img width=400 height=250 src="src/assets/go2.png" />
   <img width=400 height=250 src="src/assets/go3.png" />
 </div>
+
+## Tech Stack
+
+- **Frontend**: React
+- **State Management**: Context API
+- **Routing**: React Router
+- **Form Handling**: Unform
+- **Styling**: Styled-components
+
+## Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yourusername/gobarber.git
+   ```
+
+2. **Navigate to the project directory**
+
+   ```bash
+   cd gobarber
+   ```
+
+3. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the application**
+
+   ```bash
+   npm start
+   ```
+
+## Running Tests
+
+To run the tests for this application, use:
+
+```bash
+npm test
+```
